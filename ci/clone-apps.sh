@@ -23,4 +23,4 @@
 # git clone --depth 1 --branch master https://github.com/pipech/frappe-metabase repos/metabase_integration
 # git clone --depth 1 --branch master https://github.com/franknyarkoh/bookings repos/bookings
 # git clone --depth 1 --branch develop https://github.com/frappe/bench_manager repos/bench_manager
-git clone --depth 1 --branch main ssh://git@github.com:lapillaga/gallon.git
+git clone --depth 1 --branch main https://lapillaga:${PERSONAL_ACCESS_TOKEN}@github.com/lapillaga/gallon
